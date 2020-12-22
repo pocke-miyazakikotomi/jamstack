@@ -1,0 +1,3 @@
+[submodule "frontDev"]
+	path = frontDev
+	url = https://github.com/miyazakikotomi/jamstack
